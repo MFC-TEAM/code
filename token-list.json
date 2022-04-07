@@ -1,24 +1,23 @@
 {
   "name": "MFC",
-  "logoURI": "https://raw.githubusercontent.com/MFC-TEAM/code/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/MFC-TEAM/code/main/logo32.png",
   "keywords": [
-      "Monetary Finance Company",
-      "MFC"
-    ],
-    "timestamp": "2022-02-01T01:40:34.305Z",
-    "tokens": [
-      {
-      "chainId": 56,
+    "Monetary Finance Company",
+    "MFC"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
       "address": "0x15aD5C53BF14e4F3ba341Ec83a92F03C130fdcbA",
       "name": "Monetary Finance Company",
       "symbol": "MFC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MFC-TEAM/code/main/logo.png"
-      }
-    ],
-    "version": {
-      "major": 1,
-      "minor": 1,
-      "patch": 0
-    }
+      "logoURI": "https://raw.githubusercontent.com/MFC-TEAM/code/main/logo32.png"
+    },
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
 }
